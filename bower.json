@@ -1,0 +1,24 @@
+{
+  "name": "bulletjs",
+  "homepage": "https://github.com/timCF/bulletjs",
+  "authors": [
+    "Strain <llStrainll@gmail.com>"
+  ],
+  "description": "erlang bullet WS js client lib",
+  "main": "bullet.js",
+  "moduleType": [],
+  "keywords": [
+    "erlang",
+    "bullet",
+    "websockets",
+    "cowboy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
